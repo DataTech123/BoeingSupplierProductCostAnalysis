@@ -6,4 +6,4 @@ For instance, I analyze two suppliers' purchase product costs to view data withi
 
 By testing the red code in this project, determine that they are correct in query result.
 
-Thank you for your review. There will be another Python script project that connects SQL Server to Visual Studio Code.
+Thank you for your review and questions for further development. There will be another Python script project that connects SQL Server to Visual Studio Code.
